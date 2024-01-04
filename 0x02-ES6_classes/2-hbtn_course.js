@@ -3,7 +3,6 @@
  */
 
 export default class HolbertonCourse {
-
   /**
    * Creates a new @see {@link HolbertonCourse}.
    *
@@ -60,7 +59,7 @@ export default class HolbertonCourse {
   }
 
   /**
-   * Sets the names of students in this course.
+   * Sets the names of students in this course
    */
   set students(value) {
     if (!(value instanceof Array)) {
