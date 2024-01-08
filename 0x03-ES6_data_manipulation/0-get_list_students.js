@@ -1,3 +1,6 @@
+/**
+ * returns {{id: Number, firstName: String, location: String}[]}
+ */
 const getListStudents = () => [
   {
     id: 1,
