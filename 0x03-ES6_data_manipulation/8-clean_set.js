@@ -1,7 +1,6 @@
 /**
  * returns a string of all the set values that start with a specific string
  */
-
 const cleanSet = (set, startString) => {
 	  const strings = [];
 
