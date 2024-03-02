@@ -1,5 +1,6 @@
 const { expect } = require('chai');
 
+// script to handle script test
 describe('Testing numbers', () => {
   it('1 is equal to 1', () => {
     expect(1 === 1).to.be.true;
